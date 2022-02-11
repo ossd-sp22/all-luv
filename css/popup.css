@@ -1,11 +1,17 @@
+html,body {
+  width: 120px;
+}
+
+.hidden {
+  display: none;
+}
+
 .stop-music {
-  position: absolute;
-  top: 8px;
-  right: 16px;
-  width: 160px;
-  height: 62px;
   border-radius: 8px;
   border-color: #a03576;
+  margin: 3% auto;
+  padding: 12px;
+  cursor: pointer;
   background-color: #a03576;
   color: #ffffff;
   font-size: 20px;
