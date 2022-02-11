@@ -4,13 +4,15 @@
   "version": "1.0",
   "description": "plays Marvin Gaye, Let's get it on when you reach valentines day page on wikipedia and creates a gradient border",
   "icons": {
+    "32": "images/allluv-32.png",
     "48": "images/allluv-48.png"
   },
   "permissions": ["activeTab"],
 
   "browser_action": {
     "default_icon": "images/allluv-32.png",
-    "default_title": "All_Luv"
+    "default_title": "All_Luv",
+    "default_popup": "popup.html"
   },
   "content_scripts": [
     {

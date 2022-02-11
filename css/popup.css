@@ -1,13 +1,13 @@
 .stop-music {
-    position: absolute;
-    top: 8px;
-    right: 16px;  
-    width: 160px;
-    height: 62px;
-    border-radius: 8px;
-    border-color:#A03576 ;
-    background-color:#A03576;
-    color:#FFFFFF;
-    font-size: 20px;
-    box-shadow: 0px 8px 15px rgba(108, 60, 89, 0.1);
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  width: 160px;
+  height: 62px;
+  border-radius: 8px;
+  border-color: #a03576;
+  background-color: #a03576;
+  color: #ffffff;
+  font-size: 20px;
+  box-shadow: 0px 8px 15px rgba(108, 60, 89, 0.1);
 }
