@@ -7,22 +7,18 @@
     "32": "images/allluv-32.png",
     "48": "images/allluv-48.png"
   },
-  "permissions": [
-    "activeTab"
-  ],
+  "permissions": ["activeTab"],
   "browser_action": {
     "default_icon": "images/allluv-32.png",
     "default_title": "All_Luv",
-    "default_popup": "popup.html"
+    "default_popup": "popup/popup.html"
   },
   "content_scripts": [
     {
       "matches": [
         "https://www.history.com/topics/valentines-day/history-of-valentines-day-2"
       ],
-      "js": [
-        "allluv.js"
-      ]
+      "js": ["allluv.js"]
     }
   ]
 }
