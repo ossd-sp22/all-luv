@@ -5,8 +5,9 @@ const hidePage = `body > :not(.beastify-image) {
 const CSS = "body { border: 10px solid pink; }";
 
 document.addEventListener("click", stop);
-
 flag = 0;
+
+var audio = document.getElementById("myAudio")
 
 function stop() {
   if (flag == 0) {
@@ -14,10 +15,13 @@ function stop() {
     //   browser.tabs.insertCSS({ code: hidePage });
     browser.tabs.insertCSS({ code: CSS });
     flag = 1;
+
+    audio.play()
   } else {
     document.body.style.border = "0px solid pink";
     browser.tabs.removeCSS({ code: CSS });
     flag = 0;
+    audio.pause()
   }
 }
 
