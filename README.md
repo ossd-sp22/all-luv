@@ -23,7 +23,7 @@ On the top right tool bar, you'll see the the all-luv icon appear. Access the (h
 You're all set to! Have a lovely reading experience! 
 
 ## Contributing 
-See (CONTRIBUTING)[https://github.com/ossd-sp22/all-luv/blob/main/contributing.md]
+See [CONTRIBUTING][https://github.com/ossd-sp22/all-luv/blob/main/contributing.md]
 
 ## License 
 See (LICENSE)[https://github.com/ossd-sp22/all-luv/blob/main/LICENSE]
