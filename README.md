@@ -6,7 +6,7 @@ All-luv is a firefox extension that complements your reading experience to the h
 ## Getting Started 
 
 ## Installation 
-###Set up
+### Set up
 - Have (Firefox Browser)[https://www.mozilla.org/en-US/firefox/new/] installed 
 
 ### Clone repository 
