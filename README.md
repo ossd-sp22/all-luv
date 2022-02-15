@@ -19,7 +19,7 @@ All-luv is a firefox extension that complements your reading experience to the h
 4. Locate all-luv folder and select the manifest.json file 
 
 ### Using the Extension 
-On the top right tool bar, you'll see the the all-luv icon appear. Access the (history.com valentine's day site)[https://www.history.com/topics/valentines-day/history-of-valentines-day-2], click the plug in and click 'add love'. 
+On the top right tool bar, you'll see the the all-luv icon appear. Access the history.com's valentine's day (site)[https://www.history.com/topics/valentines-day/history-of-valentines-day-2], click the plug in and click 'add love'. 
 You're all set to! Have a lovely reading experience! 
 
 ## Contributing 
