@@ -7,7 +7,7 @@ All-luv is a firefox extension that complements your reading experience to the h
 
 ## Installation 
 ### Set up
-- Have (Firefox Browser)[https://www.mozilla.org/en-US/firefox/new/] installed 
+- Have [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) installed 
 
 ### Clone repository 
 `git clone https://github.com/ossd-sp22/all-luv.git` 
@@ -23,7 +23,7 @@ On the top right tool bar, you'll see the the all-luv icon appear. Access the (h
 You're all set to! Have a lovely reading experience! 
 
 ## Contributing 
-See [CONTRIBUTING][https://github.com/ossd-sp22/all-luv/blob/main/contributing.md]
+See [CONTRIBUTING](https://github.com/ossd-sp22/all-luv/blob/main/contributing.md)
 
 ## License 
-See (LICENSE)[https://github.com/ossd-sp22/all-luv/blob/main/LICENSE]
+See [LICENSE](https://github.com/ossd-sp22/all-luv/blob/main/LICENSE)
